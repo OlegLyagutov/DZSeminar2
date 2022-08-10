@@ -18,17 +18,18 @@
 // 32679 -> 6
 
 
-//Console.Write("Введите число: ");
-// string number = Console.ReadLine();
-
-//int number = Convert.ToInt32(Console.ReadLine());
-//string IndexNumber = Console.ReadLine();
-//Console.WriteLine(IndexNumber[2]);
-
-// if ( IndexNumber < 2)
+// Console.Write("Введите число: ");
+// int number = Convert.ToInt32(Console.ReadLine());
+// string IndexNumber = Convert.ToString(number);
+// if (IndexNumber.Length > 2)
 // {
-//     Console.WriteLine("нет такой цифры");
+//     Console.WriteLine($"Третья цифра " + IndexNumber[2]);
 // }
+// else
+// {
+//     Console.WriteLine("Такой цифры нет");
+// }
+
 
 
 // Задача 15: Напишите программу, которая принимает 
