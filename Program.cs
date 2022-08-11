@@ -30,6 +30,17 @@
 //     Console.WriteLine("Такой цифры нет");
 // }
 
+// Console.Write("Введите число: ");
+// int number = Convert.ToInt32(Console.ReadLine());
+// if (number < 100)
+// {
+//     Console.WriteLine("Такой цифры нет");
+// }
+// else
+// {
+//     string IndexNumber = Convert.ToString(number);
+//     Console.WriteLine("Третья цифра " + IndexNumber[2]);
+// }
 
 
 // Задача 15: Напишите программу, которая принимает 
